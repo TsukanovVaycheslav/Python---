@@ -1,0 +1,22 @@
+{
+	"message": "Что-то пошло не так. Давайте с начала", 
+	"keyboard": {
+		"one_time": true,
+		"buttons": [
+			[{
+	            "action": {
+	                "type": "text",
+	                "label": "Оформить пропуск"
+	            },
+	            "color": "primary"
+	        }], 
+	        [{
+	            "action": {
+	                "type": "text",
+	                "label": "Продлить пропуск"
+	            },
+	            "color": "primary"
+	        }]
+		]
+	}
+}

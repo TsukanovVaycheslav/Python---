@@ -1,0 +1,22 @@
+{
+	"message": "Для получения цифрового пропуска необходимо выбрать тип цифрового пропуска", 
+	"keyboard": {
+		"one_time": true,
+		"buttons": [
+			[{
+	            "action": {
+	                "type": "text",
+	                "label": "Для физических лиц"
+	            },
+	            "color": "primary"
+	        }], 
+	        [{
+	            "action": {
+	                "type": "text",
+	                "label": "Для юридических лиц"
+	            },
+	            "color": "primary"
+	        }]
+		]
+	}
+}

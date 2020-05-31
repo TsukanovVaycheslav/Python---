@@ -1,0 +1,10 @@
+{
+	"НАЧАТЬ": "start.json",
+
+
+	"ОФОРМИТЬ ПРОПУСК": "person.json",
+	"ПРОДЛИТЬ ПРОПУСК": "person.json",
+
+
+	"error": "error.json"
+}
